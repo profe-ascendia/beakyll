@@ -27,13 +27,13 @@ avatar: "/img/avatar-icon.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
-  Resources:
-    - Getting started: "getstarted"
-    - Featured users: "featured-users"
-    - Project page: "https://github.com/daattali/beautiful-jekyll#readme"
-  About me: "http://deanattali.com"
-  Support me: "http://deanattali.com/aboutme/#feed-meeee"
+  Inicio: ""
+  Recursos:
+    - Empezando: "getstarted"
+    - Usuarios destacados: "featured-users"
+  Página del proyecto: "https://github.com/profe-ascendia/beakyll"
+  Sobre mí: "http://deanattali.com"
+  Apóyame: "http://deanattali.com/aboutme/#feed-meeee"
 
 # --- Footer options --- #
 
