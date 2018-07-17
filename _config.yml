@@ -33,7 +33,7 @@ navbar-links:
     - Usuarios destacados: "featured-users"
     - Página del proyecto: "https://github.com/profe-ascendia/beakyll"
   Sobre mí: "http://deanattali.com"
-  Apóyame: "http://deanattali.com/aboutme/#feed-meeee"
+  POrtada: "/portada/"
 
 # --- Footer options --- #
 

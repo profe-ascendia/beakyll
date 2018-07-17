@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Portada de la feria
-bigimg: 
-	img1: /img/feria.jpg
-	img2: /img/portada2.jpg
+bigimg: /img/feria.jpg
 permalink: /portada/
 ---
 
