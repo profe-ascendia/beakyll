@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Portada de la feria
+title: Portada de la feria de Abril de Sevilla
+subtitle: El espectáculo mas colorido del mundo
 bigimg: [/img/feria.jpg, /img/portada2.jpg]
 permalink: /portada/
 ---
